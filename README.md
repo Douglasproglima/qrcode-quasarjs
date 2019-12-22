@@ -1,5 +1,8 @@
 # QRCode Reader Quasar (qrcode-quasarjs)
 
+##Demo
+QRCode With Quasarjs: http://qrcode-quasarjs.surge.sh
+
 A Quasar Framework app
 
 ## Dependencies Used
